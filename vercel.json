@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/fizikalna-terapija-najam-kineteka",
+      "destination": "/fizikalna-terapija/",
+      "permanent": true
+    }
+  ]
+}
